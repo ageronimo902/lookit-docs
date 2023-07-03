@@ -268,6 +268,7 @@ List of tutorial participants
 - Rosie Aboody (Harvard & MIT)
 - Emily Chan (University of Chicago)
 - Noah Norman (Yale)
+- Anais Geronimo (Hamilton College)
 - Gillian Broome (New York University)
 - Olivia Richards (University of Louisville)
 - Anela Marat (University of Texas at Dallas)
